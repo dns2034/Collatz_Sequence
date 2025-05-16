@@ -1,6 +1,4 @@
 # Collatz Sequence Program
-
-## Overview
 The Collatz Sequence Program is a Python application that explores the Collatz conjecture, which posits that for any positive integer, repeatedly applying a specific set of operations will eventually lead to the number 1. This program allows users to input an integer and calculates the next number in the sequence until it reaches 1.
 
 ## Functionality
